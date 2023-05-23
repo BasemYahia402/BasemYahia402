@@ -11,6 +11,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#0077B5&vCenter=true&size=22"></a>
 </p> 
 
+
+## 🚀 About Me
+"Hello, my name is Basem Yahia Abdel Latif, and I am a front-end developer with a strong focus on HTML5, CSS3, JavaScript, Bootstrap, and Sass. With a passion for crafting visually appealing and user-friendly websites, I thrive in turning designs into interactive web experiences."
+
+
+
 - 🏢 I'm a Software Engineer [Front End Developer]
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript,or anything related to web development.
@@ -34,8 +40,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
+<h1 align="center">
+I will be glad if you see all repositories ♥
+</h1>
