@@ -20,7 +20,7 @@
 - 🏢 I'm a Software Engineer [Front End Developer]
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript,or anything related to web development.
-- 👨‍💻 Check out my portfolio at (https://basemyahia402.github.io/portfolio/) to see some of the projects I've worked on.
+
 
 
 ### Connect with Me :
