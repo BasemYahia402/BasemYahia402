@@ -13,7 +13,7 @@
 
 
 ## 🚀 About Me
-"Hello, my name is Basem Yahia Abdel Latif, and I am a front-end developer with a strong focus on HTML5, CSS3, JavaScript, Bootstrap, and Sass. With a passion for crafting visually appealing and user-friendly websites, I thrive in turning designs into interactive web experiences."
+"Hello, my name is Basem Yahia Abdel Latif, I am a dedicated front-end developer with a strong passion for creating visually appealing and highly functional web interfaces. My expertise includes HTML5, CSS3, Sass, Tailwind, and React, allowing me to build responsive and dynamic websites that provide an exceptional user experience. With a keen eye for design and a commitment to clean, efficient code, I thrive in collaborative environments where I can continuously learn and contribute to innovative web projects."
 
 
 
